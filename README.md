@@ -1,10 +1,10 @@
-# 1年次後期授業 「JavaScript基礎」 課題リポジトリ 💻
+# 1年後期授業「JavaScript基礎」課題リポジトリ 💻
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-Webフロントエンド開発の土台となる **Vanilla JavaScript（ピュアJavaScript）** の文法・DOM操作・イベントハンドリング・非同期処理を体系的に学ぶための実践課題リポジトリです。  
+Webフロントエンド開発の土台となる **Vanilla JavaScript（ピュアJavaScript）** の文法・DOM操作・イベントハンドリング・非同期処理を体系的に学ぶための実践課題リポジトリです。
 ライブラリやフレームワークに依存せず、ブラウザ標準のJavaScript APIを活用したUIの実装力を身につけることを目的としています。
 
 ---
@@ -30,15 +30,15 @@ Webフロントエンド開発の土台となる **Vanilla JavaScript（ピュ�
 
 ## 💡 特に工夫した点・学んだこと（自己PR）
 
-<!-- 
+<!--
 【学生記入欄】
 課題に取り組む中で「特にこだわった実装」「難しかったが解決できた点」などを自由に記載してください。
 就職活動時のポートフォリオとしてアピールポイントになります。
 -->
 
-- **例: 08_traversal (イベント委譲)**:  
+- **例: 08_traversal (イベント委譲)**:
   動的に追加されるリスト要素に対して、親要素でイベントを監視する「イベント委譲」を活用し、パフォーマンスと保守性を意識したコードにしました。
-- **例: 12_forms (バリデーション)**:  
+- **例: 12_forms (バリデーション)**:
   送信ボタン押下時だけでなく、入力中の `input` イベントでリアルタイムにエラー表示を切り替えるUXを意識しました。
 
 ---
